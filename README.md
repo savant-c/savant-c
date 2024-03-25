@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @savant-c
-- 👀 I’m interested in technology
+- 👋
+- 👀
+- 👋
